@@ -7,4 +7,5 @@ MarkupSafe==1.0
 packaging==16.8
 pyparsing==2.2.0
 six==1.10.0
+gunicorn==20.0.4
 Werkzeug==0.11.15
